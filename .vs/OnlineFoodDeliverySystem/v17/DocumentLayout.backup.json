@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2387926\\source\\repos\\OnlineFoodDeliverySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16FC7FDB-10FD-490F-83B2-867E7371E81B}|OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem.csproj|c:\\users\\2387926\\source\\repos\\onlinefooddeliverysystem\\onlinefooddeliverysystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FC7FDB-10FD-490F-83B2-867E7371E81B}|OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem.csproj|solutionrelative:onlinefooddeliverysystem\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FC7FDB-10FD-490F-83B2-867E7371E81B}|OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem.csproj|c:\\users\\2387926\\source\\repos\\onlinefooddeliverysystem\\onlinefooddeliverysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16FC7FDB-10FD-490F-83B2-867E7371E81B}|OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem.csproj|solutionrelative:onlinefooddeliverysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FC7FDB-10FD-490F-83B2-867E7371E81B}|OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem.csproj|c:\\users\\2387926\\source\\repos\\onlinefooddeliverysystem\\onlinefooddeliverysystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FC7FDB-10FD-490F-83B2-867E7371E81B}|OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem.csproj|solutionrelative:onlinefooddeliverysystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FC7FDB-10FD-490F-83B2-867E7371E81B}|OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem.csproj|c:\\users\\2387926\\source\\repos\\onlinefooddeliverysystem\\onlinefooddeliverysystem\\fooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FC7FDB-10FD-490F-83B2-867E7371E81B}|OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem.csproj|solutionrelative:onlinefooddeliverysystem\\fooddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\2387926\\source\\repos\\OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "OnlineFoodDeliverySystem\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\2387926\\source\\repos\\OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "OnlineFoodDeliverySystem\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:44:11.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2387926\\source\\repos\\OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineFoodDeliverySystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\2387926\\source\\repos\\OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem\\appsettings.json",
+              "RelativeToolTip": "OnlineFoodDeliverySystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T09:22:10.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2387926\\source\\repos\\OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem\\FoodDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineFoodDeliverySystem\\FoodDbContext.cs",
+              "ToolTip": "C:\\Users\\2387926\\source\\repos\\OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem\\FoodDbContext.cs",
+              "RelativeToolTip": "OnlineFoodDeliverySystem\\FoodDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:18:05.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\2387926\\source\\repos\\OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem\\Customer.cs",
+              "RelativeDocumentMoniker": "OnlineFoodDeliverySystem\\Customer.cs",
+              "ToolTip": "C:\\Users\\2387926\\source\\repos\\OnlineFoodDeliverySystem\\OnlineFoodDeliverySystem\\Customer.cs",
+              "RelativeToolTip": "OnlineFoodDeliverySystem\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:15:14.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
