@@ -15,10 +15,17 @@ namespace OnlineFoodDeliverySystem.Controllers
         }
         //Register
         [HttpPost]
-        public void RegisterCustomer([FromBody] Customer customer)
+        public void Register([FromBody] Customer customer)
         {
             _context.Customers.Add(customer);
             _context.SaveChanges();
         }
+        //Login
+        [HttpGet]
+        public Customer GetCustomer(int id)
+        {
+            return _context.Customers.SingleOrDefault(p => p.CustomerID == id);
+        }
+
     }
 }
